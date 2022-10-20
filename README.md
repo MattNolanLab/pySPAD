@@ -6,6 +6,7 @@ pySPAD is a python-based tool which allows users to communicate with
 
 SPAD camera. It has various features from recording to data visualisation. Currently
 the GUI can be used for two neuroscience applications:
+
 1.In-vivo fiber photometry for neural population imaging
 
 2.Light microscopy(either in vivo or in vitro depending on the concept)
