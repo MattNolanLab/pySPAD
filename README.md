@@ -21,10 +21,14 @@ Once you have anaconda, create a virtual environment with python 3.7. This is
 important because pySPAD and other dependent libraries work on this version. 
 Using other versions might create support issues.You can create a new
  environment by running the following line on anaconda terminal:
+	
 	conda create --name pySPAD python=3.7
+
 Once you have your virtual environment,you can activate it by using 
 the following line:
+
 	conda activate pySPAD 
+
 Also, make sure to install the following 
 libraries: 
 
