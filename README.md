@@ -1,4 +1,4 @@
-# pySPAD
+## pySPAD
 
 Welcome to pySPAD! 
 
@@ -11,7 +11,7 @@ the GUI can be used for two neuroscience applications:
 2.Light microscopy(either in vivo or in vitro depending on the concept)
 
 
-#Dependencies
+# Dependencies
 
 In order to use pySPAD, we strongly recommend you to use anaconda for python 
 package management. 
@@ -28,9 +28,12 @@ pandas
 matplotlib
 scipy 
 
+As a last step, please make sure you have Microsoft Visual C++ Redistributable. 
 
+You can setup this via the following link: https://www.microsoft.com/en-us/download/details.aspx?id=40784
+ 
 
-#Installation
+# Installation
 
 pySPAD has been tested on both linux and windows operating systems(macOS version is also coming soon!).
 
