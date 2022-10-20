@@ -24,12 +24,14 @@ Once you have your virtual environment, make sure to install the following
 libraries: 
 
 pyqtgraph
-pandas 
+
+pandas
+ 
 matplotlib
+
 scipy 
 
 As a last step, please make sure you have Microsoft Visual C++ Redistributable. 
-
 You can setup this via the following link: https://www.microsoft.com/en-us/download/details.aspx?id=40784
  
 
